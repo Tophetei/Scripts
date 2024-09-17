@@ -1,2 +1,2 @@
 # Linux-Scripts
-This is a repo containing all my Linux scripts
+This is a repo containing all my scripts
